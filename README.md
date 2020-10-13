@@ -2,18 +2,22 @@
 
 ### 👩‍💻 Currently working with
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flutter.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/dart.svg" />
+<p align="left">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flutter.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/dart.svg" />
+</p>
 
 ### 📚 Currently Learning
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/webassembly.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/raspberrypi.svg" />
+<p align="left">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/webassembly.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/raspberrypi.svg" />
+</p>
 
 ### 👨‍🎓 Previously worked with
 
