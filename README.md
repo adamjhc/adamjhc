@@ -1,6 +1,6 @@
-## 👋 Hey there, I'm Adam
+## Hey there, I'm Adam
 
-### 👩‍💻 Currently working with
+### Currently working with
 
 <p align="left">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
@@ -11,7 +11,7 @@
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/dart.svg" />
 </p>
 
-### 📚 Currently Learning
+### Currently Learning
 
 <p align="left">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
@@ -19,7 +19,7 @@
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/raspberrypi.svg" />
 </p>
 
-### 👨‍🎓 Previously worked with
+### Previously worked with
 
 <p align="left">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
